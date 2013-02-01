@@ -16,7 +16,8 @@
   "keywords": [
     "promises"
   ],
-  "author": "Agile Diagnosis",
+  "author": "Agile Diagnosis <hello@agilediagnosis.com",
+  "contributors": ["jden <jason@denizac.org>"],
   "license": "MIT",
   "devDependencies": {
     "mocha": "~1.8.1",
